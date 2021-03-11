@@ -1,5 +1,5 @@
 {
-  "name": "esanchez-dev/rest-controller.php",
+  "name": "esanchez-devel/rest-controller.php",
   "description": "project example of how to implement a rest controller using League/Route",
   "require": {
     "league/route": "5.0.0",
